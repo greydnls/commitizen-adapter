@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Commit details formatting Every feature works perfectly 😅 1`] = `
+"New: Mega commit 💖
+
+BREAKING CHANGE: This part of the package has to be updated
+
+RELEASE NOTES: Its been a long journey, but worth it
+
+Closes crystal-ball/prettier#47, Closes #98"
+`;
+
+exports[`Commit details formatting When a commit emoji is selected, then it is appended to the header 1`] = `"New: Test commit emoji 💖"`;
+
+exports[`Commit details formatting When the commit body is longer than 100 chars, then it is wrapped 1`] = `
+"New: Test commit formatting
+
+This is a longer description of the commit, its over 100 chars so it should be wrapped onto multiple
+lines but not truncated"
+`;
+
+exports[`Commit details formatting When the commit closes issues, then it is appended in the footer 1`] = `
+"New: Test commit emoji
+
+Closes crystal-ball/prettier#47, Closes #98"
+`;
+
+exports[`Commit details formatting When the commit has breaking changes, then it is appended to the footer 1`] = `
+"New: Test commit emoji
+
+BREAKING CHANGE: This commit includes breaking changes!"
+`;
+
+exports[`Commit details formatting When the commit has release notes, then it is appended to the footer 1`] = `
+"New: Test commit emoji
+
+RELEASE NOTES: We have worked on this release a long time!"
+`;
+
+exports[`Commit details formatting When the header is longer than 100 chars, then it is truncated 1`] = `"New: Test commit formatting a really long commit that is longer than 100 characters so it should get"`;
+
+exports[`Commit details formatting When there is a type and subject, then they are formatted as the commit header 1`] = `"New: Test commit formatting"`;
