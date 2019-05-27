@@ -1,4 +1,4 @@
-# 🔮 Projects Commitizen Adapter
+# 🔮 Projects - Commitizen Adapter
 
 <p align="center">
   <a href="https://www.npmjs.com/package/@crystal-ball/commitizen-adapter">
