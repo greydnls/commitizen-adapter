@@ -14,6 +14,13 @@ with [@crystal-ball/semantic-release-base](https://github.com/crystal-ball/seman
 > - 🛠 - Fixes
 
 
+## [1.2.0](https://github.com/crystal-ball/commitizen-adapter/compare/v1.1.0...v1.2.0) (2019-07-08)
+
+
+#### ✨ Update
+
+* Update commitizen deps to latest 🆙 (#11)([3909011](https://github.com/crystal-ball/commitizen-adapter/commit/3909011de71df7050991114b4a345e3b60055652)), closes [#11](https://github.com/crystal-ball/commitizen-adapter/issue/11)
+
 ## [1.1.0](https://github.com/crystal-ball/commitizen-adapter/compare/v1.0.0...v1.1.0) (2019-05-27)
 
 
