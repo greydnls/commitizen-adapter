@@ -14,6 +14,7 @@ module.exports = {
   // By default, we'll de-indent your commit template and will keep empty
   // lines.
   prompter: (cz, commit) => {
+    // eslint-disable-next-line no-console
     console.log(
       '\nLine 1 will be cropped at 100 characters. All other lines will be wrapped after 100 characters.\n',
     )
