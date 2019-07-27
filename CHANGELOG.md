@@ -14,6 +14,13 @@ with [@crystal-ball/semantic-release-base](https://github.com/crystal-ball/seman
 > - 🛠 - Fixes
 
 
+## [1.3.0](https://github.com/crystal-ball/commitizen-adapter/compare/v1.2.0...v1.3.0) (2019-07-27)
+
+
+#### 💖 New
+
+* Add emoji for dependencies update 💖 (#18)([4965867](https://github.com/crystal-ball/commitizen-adapter/commit/49658678689dc3e6c4fd549f244b3aff6e3e201b)), closes [#18](https://github.com/crystal-ball/commitizen-adapter/issue/18)
+
 ## [1.2.0](https://github.com/crystal-ball/commitizen-adapter/compare/v1.1.0...v1.2.0) (2019-07-08)
 
 
