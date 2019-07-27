@@ -14,6 +14,18 @@ with [@crystal-ball/semantic-release-base](https://github.com/crystal-ball/seman
 > - 🛠 - Fixes
 
 
+## [1.4.0](https://github.com/crystal-ball/commitizen-adapter/compare/v1.3.0...v1.4.0) (2019-07-27)
+
+
+### 🔖 Release Notes
+
+* - Package now includes commitizen as a dependency and is the owner of maintaining that version. Remove commitizen from any other package.json
+
+
+#### ✨ Update
+
+* Dependencies update and depend directly on commitizen ✨ (#19)([2d3d78f](https://github.com/crystal-ball/commitizen-adapter/commit/2d3d78f048ae6374ec0a758194d5471b8b9a9287)), closes [#19](https://github.com/crystal-ball/commitizen-adapter/issue/19)
+
 ## [1.3.0](https://github.com/crystal-ball/commitizen-adapter/compare/v1.2.0...v1.3.0) (2019-07-27)
 
 
