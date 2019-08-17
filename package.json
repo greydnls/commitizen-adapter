@@ -33,7 +33,7 @@
     "@crystal-ball/semantic-release-base": "1.6.2",
     "eslint-config-eloquence": "12.3.0",
     "husky": "3.0.1",
-    "jest": "24.8.0"
+    "jest": "24.9.0"
   },
   "config": {
     "commitizen": {
